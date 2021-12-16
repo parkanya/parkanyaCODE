@@ -1,3 +1,1 @@
-# parkanyaCODE
-CODEBERRY
-x
+# Ide kerül a projekt leírása
